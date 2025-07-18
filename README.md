@@ -2,6 +2,13 @@
 
 This is a static frontend clone of the FreshToHome website, built using HTML, CSS, and Bootstrap. It replicates the layout and design of a modern food and grocery delivery service, showcasing a variety of products like chicken, fish, ready-to-cook meals, and more.
 ![image alt](https://github.com/Pavithra8S/fresh-to-home-clone-frontend-project-/blob/main/assets/shot1.png)
+
+
+
+![image alt](https://github.com/Pavithra8S/fresh-to-home-clone-frontend-project-/blob/main/assets/shot2.png)
+
+
+
 ## 🖥️ Technologies Used
 
 - HTML
