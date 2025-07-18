@@ -4,7 +4,7 @@ This is a static frontend clone of the FreshToHome website, built using HTML, CS
 
 ## 🖥️ Technologies Used
 
-- HTML5
+- HTML
 - CSS3
 - Bootstrap 4 & 5
 - Font Awesome
